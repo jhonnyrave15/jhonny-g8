@@ -1,2 +1,2 @@
 # jhonny-g8
-clase 1
+Ejercicio semana 3
